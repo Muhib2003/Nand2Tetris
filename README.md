@@ -10,3 +10,4 @@ Basic Gates: AND, OR, NOT, NAND, NOR, XOR,Multi bit busses.
 Multiplexers and Demultiplexers: MUX, DMUX
 
 Arithmetic Components: Half Adder, Full Adder,Add16.
+Aritmatic Logic Unit(ALU).
