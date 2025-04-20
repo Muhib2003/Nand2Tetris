@@ -5,8 +5,8 @@ This repository contains my implementations of elementary logic gates as part of
 This project includes the implementation of fundamental logic gates using only NAND gates, following the principles of hardware description language (HDL) in Nand2Tetris.
 
 Implemented Gates:
-Basic Gates: AND, OR, NOT, NAND, NOR, XOR
+Basic Gates: AND, OR, NOT, NAND, NOR, XOR,Multi bit busses.
 
 Multiplexers and Demultiplexers: MUX, DMUX
 
-Arithmetic Components: Half Adder, Full Adder
+Arithmetic Components: Half Adder, Full Adder,Add16.
