@@ -11,3 +11,9 @@ Multiplexers and Demultiplexers: MUX, DMUX
 
 Arithmetic Components: Half Adder, Full Adder,Add16.
 Aritmatic Logic Unit(ALU).
+
+
+Sequential Logic Circuits:
+1-bit Register
+16-bit Register
+Prrogram Counter.
