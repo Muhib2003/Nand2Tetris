@@ -16,4 +16,5 @@ Aritmatic Logic Unit(ALU).
 Sequential Logic Circuits:
 1-bit Register
 16-bit Register
-Proggram Counter.
+
+Program Counter.
