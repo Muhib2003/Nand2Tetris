@@ -22,7 +22,9 @@ Program Counter.
 
 ### Skills Learned:
 Hardware Description Language.
-Digital Logic Design.
+                   
+ Digital Logic Design.
+                   
 Simulation using Logisim.
 
 
