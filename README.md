@@ -20,7 +20,7 @@ Sequential Logic Circuits:
 
 Program Counter.
 
-Skills Learned:
+### Skills Learned:
 Hardware Description Language.
 Digital Logic Design.
 Simulation using Logisim.
