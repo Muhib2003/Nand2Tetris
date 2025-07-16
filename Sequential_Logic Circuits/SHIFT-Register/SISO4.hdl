@@ -1,0 +1,13 @@
+CHIP SISO4{
+IN in;
+OUT out;
+ 
+PARTS:
+
+DFF(in=in,out=a);
+DFF(in=a,out=b);
+DFF(in=c,out=c);
+DFF(in=c,out=out);
+
+
+}
