@@ -15,14 +15,22 @@ CHIP PC {
     
     PARTS:
 
-Add16(a=current,b[0..15]=false,b[0]=true,out=increment);
 
-Mux16(a=current,b=increment,sel=inc,out=nextval);
+  Inc16(in=current, out=increment);
+
+Mux16(a=current,b=increment,sel=inc,out=incval);
+
+Mux16(a=incval,b=in,sel=load,out=nextval);
+
 
 Mux16(a=nextval,b=false,sel=reset,out=finalval);
 
-Register(in=finalval,load=load,out=current);
+
+Register(in=finalval,load=true,out=current);
 
 Mux16(a=current, b=false, sel=false, out=out);
 
 }
+
+
+
